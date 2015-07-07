@@ -1,0 +1,22 @@
+Sorting...
+Bruce
+Elayna 
+Lisa 
+Marcus 
+Amber 
+Ryan 
+Dorian 
+Joel 
+Kelly 
+
+Done sorting
+Amber 
+Bruce
+Dorian 
+Elayna 
+Joel 
+Kelly 
+Lisa 
+Marcus 
+Ryan 
+Number Of Operations: 12
